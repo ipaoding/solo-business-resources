@@ -84,6 +84,7 @@ Daily operational tools every solopreneur needs.
 | [Pricing Calculator](https://www.solobusinesshub.com/business-tools/pricing-calculator/) | Smart pricing strategy tool to optimize your product and service pricing |
 | [Self-Employed Tax Calculator](https://www.solobusinesshub.com/business-tools/self-employed-tax-calculator/) | Accurate tax estimation and planning tool for solopreneurs and freelancers |
 | [Invoice Generator](https://www.solobusinesshub.com/business-tools/invoice-generator/) | Professional invoice creation tool with templates and payment tracking |
+| [KopFollowers.se Content Planner](https://kopfollowers.se/resources/sv/content-planner.xlsx) | Free Swedish XLSX with 30 editable rows for content topics, dates, formats and result reviews |
 
 ### 6. Digital Employees
 Build your AI-powered virtual team (Your 24/7 workforce):
